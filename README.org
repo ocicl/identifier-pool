@@ -1,0 +1,10 @@
+* identifier-pool
+
+Mirror of https://git.mfiano.net/mfiano/identifier-pool
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/identifier-pool.git   |
+| commit  | {"messa  |
+| systems | identifier-pool |
+|---------+-------------------------------------------|
+
